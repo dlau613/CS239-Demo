@@ -103,6 +103,8 @@ We can drill down further be selecting a piece of data and clicking the filter i
 Click the New Story tab. Drag Global Sales and Profits onto the sheet and add the caption "Profits look strong".
 Click New Blank Point and add the Dashboard to the sheet.
 
+Reference
+https://www.tableau.com/learn/tutorials/on-demand/getting-started#training-video-chapters
 
 
 
