@@ -1,4 +1,4 @@
-## Download 
+## Download Tableau 
 Download the desktop trial [here](https://www.tableau.com/products/desktop/download)
 
 ## Download Example Dataset
