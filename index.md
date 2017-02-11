@@ -1,8 +1,8 @@
 ## Download 
-https://www.tableau.com/products/desktop/download
+Download the desktop trial [here](https://www.tableau.com/products/desktop/download)
 
 ## Download Example Dataset
-https://www.tableau.com/sites/default/files/getting_started_data_sets.zip
+Download the data set used in the tutorial [here](https://www.tableau.com/sites/default/files/getting_started_data_sets.zip)
 
 ## Connect to Data
 Select Excel under Connect > To a File and select ‘Global Superstore Orders 2016.xlsx’
@@ -103,8 +103,7 @@ We can drill down further be selecting a piece of data and clicking the filter i
 Click the New Story tab. Drag Global Sales and Profits onto the sheet and add the caption "Profits look strong".
 Click New Blank Point and add the Dashboard to the sheet.
 
-Reference
-https://www.tableau.com/learn/tutorials/on-demand/getting-started#training-video-chapters
+[Reference](https://www.tableau.com/learn/tutorials/on-demand/getting-started#training-video-chapters)
 
 
 
